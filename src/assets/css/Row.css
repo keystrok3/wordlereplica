@@ -1,0 +1,14 @@
+
+
+.letter-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 2rem;
+    border: 3px solid #979797;
+    height: 100%;
+    width: 15%;
+    margin: 0 .25em;
+    color: black;
+}
